@@ -1,0 +1,95 @@
+header {
+	width: 100vw;
+}
+
+.informacion-inicial {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 20px;
+}
+
+#logo-estrella {
+	width: 80px;
+	height: 45px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	border: none;
+}
+
+.cabecera {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	height: 15vh;
+}
+
+#buscador {
+	border: none;
+	background: rgb(239, 239, 227);
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	width: 20vw;
+	padding: 10px 40px;
+}
+
+#boton-login {
+	border: solid 1px #2a7ae4;
+	color: #2a7ae4;
+}
+
+.banner {
+	background: url(images/banners/banner-promocional.webp);
+	background-size: cover;
+	width: 100vw;
+	height: 30vh;
+	background-repeat: no-repeat;
+}
+
+.banner {
+	color: aliceblue;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 20vw;
+	gap: 10px;
+}
+
+.banner h1 {
+	font-size: 3rem;
+}
+
+#boton-farmacos {
+	width: 10vw;
+	background: #ffffff;
+	border: 1px solid #ffffff;
+}
+
+#productos {
+	display: flex;
+	width: 100vw;
+	height: 50px;
+	/* background: green; */
+}
+
+.medicamento {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: calc(16.66vw - 1px);
+	gap: 50px;
+	border: solid 1px red;
+	height: 280px;
+	margin: 4mm m0px auto;
+}
+
+.imagen-producto {
+	width: calc(16.66vw - 1px);
+	height: 100px;
+}

@@ -1,0 +1,179 @@
+{
+	"data": [
+		{
+			"category": "Salud y medicinas",
+			"image": "",
+			"nombre": "Jengimiel 120ml.",
+			"precio": "50.34",
+			"description": "Jarabe para adultos con extracto de miel."
+		},
+		{
+			"category": "Salud y medicinas",
+			"image": "",
+			"nombre": "Paracetamol tabletas.",
+			"precio": "89.90",
+			"description": "Paracetamol 500mg Blister 10 Tabletas La Santé."
+		},
+		{
+			"category": "Salud y medicinas",
+			"image": "",
+			"nombre": "Salbutamol suspensión.",
+			"precio": "15.50",
+			"description": "Salbutamol Salbutral 100Mcg Aerosol 250 Dosis."
+		},
+		{
+			"category": "Salud y medicinas",
+			"image": "Albendazol tabletas.",
+			"nombre": "",
+			"precio": "12.33",
+			"description": "Albendazol 200Mg 6 Tabletas Plusandex."
+		},
+		{
+			"category": "Salud y medicinas",
+			"image": "",
+			"nombre": "Vitamina C tabletas masticables.",
+			"precio": "10.00",
+			"description": "Vitamina C 500Mg 10 Tabletas Masticables La Sante"
+		},
+		{
+			"category": "Salud y medicinas",
+			"image": "",
+			"nombre": "Ambroxol 120 ml.",
+			"precio": "25.99",
+			"description": "Ambroxol Jarabe para adultos 15Mg 120Ml."
+		},
+		{
+			"category": "Cuidado personal",
+			"image": "",
+			"nombre": "Champu Head & Shoulders proteccion caida 375Ml.",
+			"precio": "59.00",
+			"description": "¿Te cansaste de ver cabellos caídos en tu casa? Lo que muchos no saben cuándo buscan un shampoo anti-caída es que la solución comienza por la raíz. La colección Protección Caída con Cafeína, fue re formulada para ayudar al crecimiento de cabello fuerte que nace de un cuero cabelludo hasta 100% libre de caspa hidratando como nunca antes."
+		},
+		{
+			"category": "Cuidado personal",
+			"image": "",
+			"nombre": "Champu Pantene Rest. Liso Extremo 400 Ml.",
+			"precio": "45.89",
+			"description": "Pantene con su fórmula multivitaminas nutre tu cabello desde la raíz para que crezca largo y fuerte hasta las puntas."
+		},
+		{
+			"category": "Cuidado personal",
+			"image": "",
+			"nombre": "Crema Dental Colgate Menta 100Ml.",
+			"precio": "18.66",
+			"description": "Consigue la sonrisa perfecta que tanto deseas con la fórmula inigualable con la que está elaborada la Crema Dental Máxima Protección Anticaries de Colgate y disfruta de unos dientes relucientes, sanos y libres de caries."
+		},
+		{
+			"category": "Cuidado personal",
+			"image": "",
+			"nombre": "Desodorante Lady Speed Stick Barra Pro5 45Gr.",
+			"precio": "35.00",
+			"description": "Lady Speed Stick 24/7 Pro5 te ofrece una fórmula clínicamente probada con el sistema multi-acción para 5 beneficios."
+		},
+		{
+			"category": "Cuidado personal",
+			"image": "",
+			"nombre": "Protector Diario Kotex Femenino 50 Und.",
+			"precio": "24.76",
+			"description": "Toalla con tecnología OdorBlock, respirabilidad y protección esencial."
+		},
+		{
+			"category": "Cuidado personal",
+			"image": "",
+			"nombre": "Máquina Afeitar Goodmax 4 Hoj X 1 Und.",
+			"precio": "12.00",
+			"description": "Perfectas para caballero con cuatro cuchillas de precisión."
+		},
+		{
+			"category": "Cuidado personal",
+			"image": "",
+			"nombre": "Bandas Depilatorias Body Natur Piel Normal Y Seca Te Matcha 16 Unds",
+			"precio": "30.80",
+			"description": "Enriquecida con Te de Matcha, para todo tipo de piel, formulación natural."
+		},
+		{
+			"category": "Belleza",
+			"image": "",
+			"nombre": "Labial Valmy Lip Care Original 4 GR.",
+			"precio": "20.56",
+			"description": "Protector Labial de fórmula hidratante con Vitamina E y FPS 15. Alivia y suaviza los labios secos y agrietados."
+		},
+		{
+			"category": "Belleza",
+			"image": "",
+			"nombre": "Mascara Valmy De Pestañas Waterproof Negro 01.",
+			"precio": "23.00",
+			"description": "Máscara de pestañas que da volumen y definición durante todo el día. Alarga, riza y acondiciona las pestañas creando ojos de impacto. Aporta pigmentación intensa y aplicación precisa soportando lluvia o lágrimas."
+		},
+		{
+			"category": "Belleza",
+			"image": "",
+			"nombre": "Esmalte Valmy Gel Ultra Brillo",
+			"precio": "31.00",
+			"description": "Máximo brillo que protege y realza el color de tu esmalte. Con filtro UV."
+		},
+		{
+			"category": "Belleza",
+			"image": "",
+			"nombre": "Splash Spaline Body Mist Blueberry Orange 150Ml.",
+			"precio": "32.70",
+			"description": "Deliciosa fragancia con aroma a blueberry."
+		},
+		{
+			"category": "Belleza",
+			"image": "",
+			"nombre": "Compacto Valmy Perfect Finish sin Espejo Almendra 13",
+			"precio": "87.00",
+			"description": "Polvo Compacto micro pulverizado. Su textura es muy sedosa, lo que permite un mejor acabado al aplicarse. Es no comedogénico, es decir, no obstruye los poros, ni se cuartea."
+		},
+		{
+			"category": "Belleza",
+			"image": "",
+			"nombre": "Pinza Cejas La Casa Noble Para Vellos Infectados",
+			"precio": "23.78",
+			"description": "Pinza para sacar los vellos de las cejas."
+		},
+		{
+			"category": "Niños",
+			"image": "",
+			"nombre": "Formula Nan Pro 1 Inicio.",
+			"precio": "140.00",
+			"description": "Fórmula láctea en polvo con proteínas optimizadas, ácido docosahexaenoico (DHA), araquidónico (ARA) y hierro para lactantes desde el nacimiento."
+		},
+		{
+			"category": "Niños",
+			"image": "",
+			"nombre": "Formula Similac Total Comfort Pro Sensitive 0 a 12 Meses 360g.",
+			"precio": "160.76",
+			"description": "Fórmula infantil para lactantes de 0 a 12 meses."
+		},
+		{
+			"category": "Niños",
+			"image": "",
+			"nombre": "Formula Baby Alpina 1-6 Meses 400Gr.",
+			"precio": "125.77",
+			"description": "Formula infantil 0 a 6 meses. Alpina Baby tiene un adecuado aporte de proteínas, grasas, carbohidratos, vitaminas y minerales."
+		},
+		{
+			"category": "Niños",
+			"image": "",
+			"nombre": "Compota Natulac Manzana.",
+			"precio": "7.65",
+			"description": "Rico en vitaminas, libre de conservantes y colorantes."
+		},
+		{
+			"category": "Niños",
+			"image": "",
+			"nombre": "Medias Couture Diseno De Niño 6-12Meses.",
+			"precio": "12.50",
+			"description": ""
+		},
+		{
+			"category": "Niños",
+			"image": "",
+			"nombre": "Pañal Huggies Active G 30Und.",
+			"precio": "90.50",
+			"description": "Tecnología Maxisec: barreras antifiltración y diseño anatómico para mayor comodidad."
+		}
+	]
+}
